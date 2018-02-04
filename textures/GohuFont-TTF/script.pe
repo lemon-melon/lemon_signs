@@ -1,0 +1,5 @@
+Open($1);
+Select("!", "~");
+# I don't know if this is necessary; it seems to work therewithout
+# BitmapsAvail([11]);
+Export("character_%e.png", 11);
