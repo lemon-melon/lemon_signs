@@ -15,6 +15,7 @@ https://github.com/hchargois/gohufont
 ## Known issues
 
 - The code is very slow.
+  - Very long textures and many entities.
 - When changing font sizes there is sometimes overlap between lines.
 - You can't change font size within a line.
 - You need to do line wrapping manually.
