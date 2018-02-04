@@ -1,6 +1,9 @@
 # lemon_signs
 
 Based on the LCD display in the digilines mod, but with some formatting available.
+
+Yes these aren't displaying properly in GitHub.
+
 - <display 2 3> to change the display dimensions
 - <c #C0FFEE> to change the foreground color
 - <bg #C0FFEE> to change the background color
