@@ -2,15 +2,13 @@
 
 Based on the LCD display in the digilines mod, but with some formatting available.
 
-Yes these aren't displaying properly in GitHub.
-
-- <display 2 3> to change the display dimensions
-- <c #C0FFEE> to change the foreground color
-- <bg #C0FFEE> to change the background color
-- <bdr #ABCDEF> to change the border color
-- <n> for a newline
-- <n s=3> to change the text size
-- <lt> and <gt> to use the < and > characters normally
+- `<display 2 3>` to change the display dimensions
+- `<c #C0FFEE>` to change the foreground color
+- `<bg #C0FFEE>` to change the background color
+- `<bdr #ABCDEF>` to change the border color
+- `<n>` for a newline
+- `<n s=3>` to change the text size
+- `<lt>` and `<gt>` to use the < and > characters normally
 
 https://github.com/hchargois/gohufont
 
