@@ -1,16 +1,5 @@
 -- Based on LCD display in digilines mod.
 
---[[
-    Future plans:
-        multiblock displays?
-        change font size within line
-        the PNG files should all be the same dimensions
-            (current workaround: font.lua reads bounding box information
-            in the BDF file)
-        the PNG files should all be transparent
-            (current workaround: "[makealpha:255,255,255")
---]]
-
 lemon_signs = {}
 
 lemon_signs.default_colors = {
